@@ -1,2 +1,2 @@
 pub mod authentication;
-mod authsettings;
+pub mod authsettings;
